@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="valor" type="id" />
+    <item name="data" type="id" />
+    <item name="descricao" type="id" />
+    <item name="local" type="id" />
+    <item name="spinner" type="id" />
+    <item name="button2" type="id" />
+    <item name="preferences" type="id" />
+    <item name="galeria" type="id" />
+    <item name="settings" type="id" />
+    <item name="valorOrcamento" type="id" />
+    <item name="Orcamento" type="id" />
+    <item name="quantidadePessoas" type="id" />
+    <item name="dataChegada" type="id" />
+    <item name="dataPartida" type="id" />
+    <item name="Destino" type="id" />
+    <item name="button" type="id" />
+    <item name="Lazer" type="id" />
+    <item name="Negocios" type="id" />
+    <item name="result" type="id" />
+</resources>
